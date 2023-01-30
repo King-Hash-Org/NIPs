@@ -9,7 +9,7 @@ created: 2023-01-30
 
 ## Abstract
 
-NodeDAO, a decentralized autonomous organization (DAO) was established by Kinghash to oversee the protocol's decentralized administration. The NodeDAO is responsible for making major protocol-related decisions. This can guarantee that the protocol is in line with the interests of all parties involved and  promotes decentralized governance. 
+NodeDAO, a decentralized autonomous organization (DAO) was established by Kinghash to oversee the protocol's decentralized administration.<br /> The NodeDAO is responsible for making major protocol-related decisions.<br /> This can guarantee that the protocol is in line with the interests of all parties involved and  promotes decentralized governance. 
 
 ## Motivation
 
@@ -27,10 +27,10 @@ The rationale fleshes out the specification by describing what motivated the des
 
 ## Roles and Responsibilities of a DAO Member
 
-a. Proposes/participates in voting on proposals to the DAO's governance structure.
-b. Manage NodeDAO's treasury funds - usage of accumulated protocol fees, income.
-c. Setting and adjusting fee rates for NodeDAO protocol to be self-sustainable.
-d. Striving ways for future steps for the NodeDAO protocol and ecosystem.
+a. Proposes/participates in voting on proposals to the DAO's governance structure.<br />
+b. Manage NodeDAO's treasury funds - usage of accumulated protocol fees, income.<br />
+c. Setting and adjusting fee rates for NodeDAO protocol to be self-sustainable.<br />
+d. Striving ways for future steps for the NodeDAO protocol and ecosystem.<br />
 
 
 ## How to join as a Node Operator
