@@ -9,11 +9,11 @@ created: 2023-01-30
 
 ## Abstract
 
-Abstract is a multi-sentence (short paragraph) technical summary. This should be a very terse and human-readable version of the specification section. Someone should be able to read only the abstract to get the gist of what this specification does.
+NodeDAO, a decentralized autonomous organization (DAO) was established by Kinghash to oversee the protocol's decentralized administration. The NodeDAO is responsible for making major protocol-related decisions. This can guarantee that the protocol is in line with the interests of all parties involved and  promotes decentralized governance. 
 
 ## Motivation
 
-The motivation section should describe the "why" of this NIP. What problem does it solve? Why should someone want to implement this standard? What benefit does it provide to the NodeDAO ecosystem? What use cases does this NIP address?
+Looking for a solution that can benefit everyone and where every user/holders gets to have a say. 
 
 ## Specification
 
@@ -25,17 +25,22 @@ The technical specification should describe the syntax and semantics of any new 
 
 The rationale fleshes out the specification by describing what motivated the design and why particular design decisions were made. It should describe alternate designs that were considered and related work, e.g. how the feature is supported in other languages.
 
-## Backwards Compatibility
+## Roles and Responsibilities of a DAO Member
 
-All NIPs that introduce backwards incompatibilities must include a section describing these incompatibilities and their severity. The NIP must explain how the author proposes to deal with these incompatibilities. NIP submissions without a sufficient backwards compatibility treatise may be rejected outright.
+a. Proposes/participates in voting on proposals to the DAO's governance structure.
+b. Manage NodeDAO's treasury funds - usage of accumulated protocol fees, income.
+c. Setting and adjusting fee rates for NodeDAO protocol to be self-sustainable.
+d. Striving ways for future steps for the NodeDAO protocol and ecosystem.
 
-## Test Cases
 
-Test cases for an implementation are mandatory for NIPs that are affecting consensus changes.  If the test suite is too large to reasonably be included inline, then consider adding it as one or more files in `../assets/nip-####/`.
+## How to join as a Node Operator
 
-## Reference Implementation
+One can join with a listing fee of 0.1 ETH
 
-An optional section that contains a reference/example implementation that people can use to assist in understanding or implementing this specification.  If the implementation is too large to reasonably be included inline, then consider adding it as one or more files in `../assets/nip-####/`.
+## How to join as a Trusted Node Operator
+a. Identity should be verified. 
+b. Have a positive reputation in the web3/blockchain community.
+c. Not have a history of dubious conduct (as determined by a review of staking history).
 
 ## Security Considerations
 
