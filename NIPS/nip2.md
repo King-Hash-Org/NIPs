@@ -38,9 +38,9 @@ d. Striving ways for future steps for the NodeDAO protocol and ecosystem.
 One can join with a listing fee of 0.1 ETH
 
 ## How to join as a Trusted Node Operator
-a. Identity should be verified. 
-b. Have a positive reputation in the web3/blockchain community.
-c. Not have a history of dubious conduct (as determined by a review of staking history).
+a. Identity should be verified. <br />
+b. Have a positive reputation in the web3/blockchain community.<br />
+c. Not have a history of dubious conduct (as determined by a review of staking history).<br />
 
 ## Security Considerations
 
