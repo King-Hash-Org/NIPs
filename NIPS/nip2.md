@@ -32,15 +32,13 @@ b. Manage NodeDAO's treasury funds - usage of accumulated protocol fees, income.
 c. Setting and adjusting fee rates for NodeDAO protocol to be self-sustainable.<br />
 d. Striving ways for future steps for the NodeDAO protocol and ecosystem.<br />
 
-
-## How to join as a Node Operator
-
-One can join with a listing fee of 0.1 ETH
-
 ## How to join as a Trusted Node Operator
 a. Identity should be verified. <br />
 b. Have a positive reputation in the web3/blockchain community.<br />
 c. Not have a history of dubious conduct (as determined by a review of staking history).<br />
+
+## Trusted Node Operator
+Trusted node operators on NodeDAO protocol must be licensed financial entities. As a node operator, you’ll manage and run authoring nodes that keep the Polymesh blockchain secure and operational at all times.
 
 ## Security Considerations
 
