@@ -36,3 +36,4 @@ These improvement proposals helps achieve that objective for all members of the 
 NIP# | Title | Type | Created | Author | Status | 
 --- | --- | --- | --- |--- |--- |
 1 | [NIP Purpose and Guidelines](./NIPS/nip-1.md) | Meta | 2023-01-20 | @Tom-OriginStorage | Living |
+2 | [NodeDAO Rules and Guidelines](./NIPS/nip-2.md) | Meta | 2023-01-30 | @Derrick-OriginStorage | Living |
